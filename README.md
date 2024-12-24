@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 The third time I am making and WILL COMPLETE my portfolio website
+
+- Files starting with "_example.js" are temp data files
